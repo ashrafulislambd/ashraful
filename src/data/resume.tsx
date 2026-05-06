@@ -189,7 +189,7 @@ export const DATA = {
         },
       ],
       image: "oclum-thumbnail.png",
-      //video: "https://cdn.magicui.design/bento-grid.mp4",
+      video: "",
     },
   ],
   openSource: [
