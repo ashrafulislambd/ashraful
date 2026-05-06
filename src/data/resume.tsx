@@ -200,7 +200,9 @@ export const DATA = {
       details: "Self-hosted file conversion library supporting a wide range of file formats",
       repo: "https://github.com/transmute-app/transmute",
     },
-  ], /*
+  ],
+  hackathons: [],
+   /*
   hackathons: [
     {
       title: "Hack Western 5",
