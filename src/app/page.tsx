@@ -141,11 +141,6 @@ export default function Page() {
           <OpenSourceSection />
         </BlurFade>
       </section>
-      <section id="hackathons">
-        <BlurFade delay={BLUR_FADE_DELAY * 13}>
-          { DATA.hackathons && <HackathonsSection /> }
-        </BlurFade>
-      </section>
       <section id="contact">
         <BlurFade delay={BLUR_FADE_DELAY * 16}>
           <ContactSection />
